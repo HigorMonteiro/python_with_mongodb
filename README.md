@@ -8,7 +8,7 @@ git clone https://github.com/HigorMonteiro/python_with_mongodb.git
 cd python_with_mongodb/
 pip install -r requirements.txt
 ```
-### Roda o script main.py
+### Executando o script main.py
 ```
 python3 main.py
 ```
